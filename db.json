@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "Vijendra",
+      "lastName": "Rajput",
+      "email": "raulvijendra@gmail.com",
+      "dob": "1997-07-28T18:30:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "CNA",
+      "experience": 3,
+      "package": 6
+    }
+  ]
+}
